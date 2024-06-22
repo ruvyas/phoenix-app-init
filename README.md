@@ -1,5 +1,7 @@
 # Forum
 
+## This project is used for learning purpose only
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
